@@ -18,7 +18,7 @@ for (var i=0; i< movies[0].length; i++){
     poster.append(image);
 
     aElement = document.createElement("a");
-    aElement.href = movies[2][i];
+    aElement.href = "./pages/" + movies[2][i];
     desc = document.createElement("div");
     desc.className = "desc";
     texth4 = document.createElement("h4");
