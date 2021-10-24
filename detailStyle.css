@@ -1,0 +1,37 @@
+.image {
+    float:left;
+    padding:1vw;
+}
+
+h2{
+    font-size: 2em;
+}
+
+body{
+    background: #0A0A0A;
+
+}
+
+.description{
+    color: #FFFFFF;
+    padding-left: 2vw;
+    float: left;
+    width: 30vw;
+}
+
+.desc-text {
+    min-height: 40vh;
+}
+
+.info{
+    padding-top: 20vh;
+    padding-left: 20vw;
+}
+
+.myButton {
+    color: rgb(255, 255, 255); font-size: 11px; line-height: 11px; padding: 8px; border-radius: 0px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(57, 78, 92) 0%, rgb(43, 92, 124) 50%, rgb(20, 78, 117) 100%); display: inline-block;
+    margin-left: 10vw;
+
+}
+    .myButton:active {
+    background: #303141; }
